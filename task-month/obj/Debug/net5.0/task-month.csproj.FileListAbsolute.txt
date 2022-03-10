@@ -1,0 +1,16 @@
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\bin\Debug\net5.0\task-month.exe
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\bin\Debug\net5.0\task-month.deps.json
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\bin\Debug\net5.0\task-month.runtimeconfig.json
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\bin\Debug\net5.0\task-month.runtimeconfig.dev.json
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\bin\Debug\net5.0\task-month.dll
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\bin\Debug\net5.0\ref\task-month.dll
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\bin\Debug\net5.0\task-month.pdb
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.csproj.AssemblyReference.cache
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.AssemblyInfoInputs.cache
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.AssemblyInfo.cs
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.dll
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\ref\task-month.dll
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.pdb
+C:\Users\Sahil\Desktop\New folder (2)\task-month\task-month\obj\Debug\net5.0\task-month.genruntimeconfig.cache
